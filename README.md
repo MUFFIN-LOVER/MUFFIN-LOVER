@@ -7,5 +7,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MUFFIN-LOVER&theme=radical&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MUFFIN-LOVER&theme=radical)
-
-![snake gif](https://github.com/YOUR_USERNAME/MUFFIN-LOVER/blob/output/github-contribution-grid-snake.svg)
