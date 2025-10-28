@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muffin-lover&label=Profile%20views&color=0e75b6&style=flat" alt="muffin-lover" /> </p>
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
+  
 <a href="https://instagram.com/https://www.instagram.com/_._muffin_._lover_._?igsh=m2j5mgjwzm1jm3lo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._muffin_._lover_._?igsh=m2j5mgjwzm1jm3lo" height="30" width="40" /></a>
+
 <a href="[https://discord.gg/744827898036224035](https://discord.com/users/74482789803622)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="744827898036224035" height="30" width="40" /></a>
 </p>
 
