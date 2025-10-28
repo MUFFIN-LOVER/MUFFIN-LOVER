@@ -1,5 +1,5 @@
-<h1 align="center">💫 About Me: MUFFIN LOVER</h1>
-<h3 align="center">🚀 I am a cybersecurity beginner — eager to learn, explore, and grow. Passionate about understanding how to protect systems and data in the digital world. Always open to new challenges and collaboration!</h3>
+<h1 align="center">About Me: MUFFIN LOVER</h1>
+<h3 align="center">I am a cybersecurity beginner — eager to learn, explore, and grow. Passionate about understanding how to protect systems and data in the digital world. Always open to new challenges and collaboration!</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=muffin-lover&label=Profile%20views&color=0e75b6&style=flat" alt="muffin-lover" /> 
