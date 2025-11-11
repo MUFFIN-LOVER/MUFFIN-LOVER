@@ -11,10 +11,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 
-<p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsargus&show_icons=true&locale=en" alt="itsargus" />
-</p>
-
 <details align="center">
   <summary><h2><b>My stack</b></h2></summary>
   <p>
@@ -51,9 +47,9 @@
 <details align="center">
   <summary><h2><b>GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsargus&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsargus&theme=blueberry&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=itsargus&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=itsargus&count_private=true&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000" />
   </p>
 </details>
 
