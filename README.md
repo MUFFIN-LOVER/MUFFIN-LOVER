@@ -57,6 +57,6 @@
 </p>
 
 <p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muffin-lover&show_icons=true&locale=en" alt="muffin-lover" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsargus&show_icons=true&locale=en" alt="itsargus" />
 </p>
 
